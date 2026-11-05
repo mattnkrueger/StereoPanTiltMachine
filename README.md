@@ -46,6 +46,12 @@ Joystick Expansion Module
 ## PCB
 A PCB will be created to avoid wiring the 9x9 keyboard matrix and the esp32
 
+## Mechanical Design
+I haven't yet determined how I am going to handle the tilt mechanism as well as its homing and overtravel limits. This is an old photo and I have since switched the color theme and reduced the height of the machine.
+
+Approximate Design 
+![Approximate Design](images/Mechanical/InProgress/ApproximateDesign.png)
+
 ## Assembly Photos
 I have been assembling as I go as well as purchasing on the go. From my previous project (Ethical Restroom) I absolutely hated the screwing situation and spent a ton of time fooling around with different tolerances to try an get a tight screw fitting. This project I decided to use heat inserts (2.5m, 3m, 5m) for more rigidity. This will make the final build much stronger, however it is much more time consuming. Also, the plastic fumes from my 3D printer and soldering heat inserts may take some years off my life haha. 
 
