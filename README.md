@@ -56,8 +56,4 @@ I have been assembling as I go as well as purchasing on the go. From my previous
 ## Bill of Materials and Cost
 Not filling out this section until assembly has completed
 
-Thanks for reading!
-- Matt Krueger
-# StereoPanTiltMachine
-# StereoPanTiltMachine
-# StereoPanTiltMachine
+# Thanks for reading! - Matt Krueger
